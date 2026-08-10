@@ -1,0 +1,1448 @@
+[
+  {
+    "number": "15936",
+    "name": "KANPUR - RAIPUR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CNB",
+    "destination": "R",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "R",
+        "name": "R",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15937",
+    "name": "KANPUR - BILASPUR INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CNB",
+    "destination": "BSP",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BSP",
+        "name": "BSP",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15938",
+    "name": "KANPUR - VISAKHAPATNAM SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CNB",
+    "destination": "VSKP",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ST",
+        "name": "ST",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "VSKP",
+        "name": "VSKP",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15939",
+    "name": "KANPUR - VIJAYAWADA EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CNB",
+    "destination": "BZA",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "R",
+        "name": "R",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "UBL",
+        "name": "UBL",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15940",
+    "name": "KANPUR - GUWAHATI MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CNB",
+    "destination": "GHY",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15941",
+    "name": "KANPUR - AGARTALA JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CNB",
+    "destination": "AGTL",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "19:15",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15942",
+    "name": "VARANASI - AYODHYA GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "AY",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "AY",
+        "name": "AY",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15943",
+    "name": "VARANASI - GORAKHPUR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "GKP",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "HYB",
+        "name": "HYB",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GKP",
+        "name": "GKP",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15944",
+    "name": "VARANASI - VGL JHANSI INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "VGLJ",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "04:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15945",
+    "name": "VARANASI - PATNA SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "PNBE",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15946",
+    "name": "VARANASI - RANCHI EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "RNC",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SC",
+        "name": "SC",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "RNC",
+        "name": "RNC",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15947",
+    "name": "VARANASI - TATANAGAR MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "TATA",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "13:45",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15948",
+    "name": "VARANASI - CHANDIGARH JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "CDG",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15949",
+    "name": "VARANASI - AMRITSAR GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "ASR",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ASR",
+        "name": "ASR",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15950",
+    "name": "VARANASI - FIROZPUR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "FZR",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "22:30",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15951",
+    "name": "VARANASI - JAMMU TAWI INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "JAT",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MS",
+        "name": "MS",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15952",
+    "name": "VARANASI - KATRA SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "SVDK",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GKP",
+        "name": "GKP",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15953",
+    "name": "VARANASI - JAIPUR EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "JP",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "JP",
+        "name": "JP",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15954",
+    "name": "VARANASI - KOTA MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "KOTA",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15955",
+    "name": "VARANASI - BHOPAL JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "BPL",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15956",
+    "name": "VARANASI - INDORE GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "INDB",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15957",
+    "name": "VARANASI - GWALIOR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "GWL",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15958",
+    "name": "VARANASI - AHMEDABAD INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "ADI",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "R",
+        "name": "R",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CSMT",
+        "name": "CSMT",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15959",
+    "name": "VARANASI - SURAT SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "ST",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ST",
+        "name": "ST",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15960",
+    "name": "VARANASI - VADODARA EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "BRC",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "AY",
+        "name": "AY",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15961",
+    "name": "VARANASI - RAJKOT MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "RJT",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ASR",
+        "name": "ASR",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "RJT",
+        "name": "RJT",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  }
+]

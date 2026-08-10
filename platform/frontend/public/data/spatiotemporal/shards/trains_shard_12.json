@@ -1,0 +1,1448 @@
+[
+  {
+    "number": "15286",
+    "name": "ANAND VIHAR - RAJKOT INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "RJT",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "RJT",
+        "name": "RJT",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15287",
+    "name": "ANAND VIHAR - PUNE SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "PUNE",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "01:45",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15288",
+    "name": "ANAND VIHAR - NAGPUR EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "NGP",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CLT",
+        "name": "CLT",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15289",
+    "name": "ANAND VIHAR - MADGAON MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "MAO",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "VSKP",
+        "name": "VSKP",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15290",
+    "name": "ANAND VIHAR - MYSURU JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "MYS",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "08:30",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 240
+      }
+    ]
+  },
+  {
+    "number": "15291",
+    "name": "ANAND VIHAR - HUBBALLI GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "UBL",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "UBL",
+        "name": "UBL",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15292",
+    "name": "ANAND VIHAR - TRIVANDRUM HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "TVC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15293",
+    "name": "ANAND VIHAR - ERNAKULAM INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "ERS",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "R",
+        "name": "R",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15294",
+    "name": "ANAND VIHAR - CLT SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "CLT",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CLT",
+        "name": "CLT",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15295",
+    "name": "ANAND VIHAR - COIMBATORE EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "CBE",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "RJT",
+        "name": "RJT",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CBE",
+        "name": "CBE",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15296",
+    "name": "ANAND VIHAR - MADURAI MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "MDU",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "04:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15297",
+    "name": "ANAND VIHAR - BHUBANESWAR JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "BBS",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BSP",
+        "name": "BSP",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15298",
+    "name": "ANAND VIHAR - PURI GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "PURI",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15299",
+    "name": "ANAND VIHAR - RAIPUR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "R",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "R",
+        "name": "R",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15300",
+    "name": "ANAND VIHAR - BILASPUR INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "BSP",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SC",
+        "name": "SC",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "LKO",
+        "name": "LKO",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BSP",
+        "name": "BSP",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15301",
+    "name": "ANAND VIHAR - VISAKHAPATNAM SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "VSKP",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "RNC",
+        "name": "RNC",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "VSKP",
+        "name": "VSKP",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15302",
+    "name": "ANAND VIHAR - VIJAYAWADA EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "BZA",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "JP",
+        "name": "JP",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15303",
+    "name": "ANAND VIHAR - GUWAHATI MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "GHY",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15304",
+    "name": "ANAND VIHAR - AGARTALA JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "AGTL",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15305",
+    "name": "MUMBAI CENTRAL - MUMBAI CSMT GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "CSMT",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "R",
+        "name": "R",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CSMT",
+        "name": "CSMT",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15306",
+    "name": "MUMBAI CENTRAL - BANDRA HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "BDTS",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "DLI",
+        "name": "DLI",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15307",
+    "name": "MUMBAI CENTRAL - LOKMANYA TILAK INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "LTT",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15308",
+    "name": "MUMBAI CENTRAL - HOWRAH SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SC",
+        "name": "SC",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15309",
+    "name": "MUMBAI CENTRAL - SEALDAH EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "SDAH",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15310",
+    "name": "MUMBAI CENTRAL - BENGALURU MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "SBC",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15311",
+    "name": "MUMBAI CENTRAL - YESVANTPUR JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "YPR",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ST",
+        "name": "ST",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "YPR",
+        "name": "YPR",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  }
+]

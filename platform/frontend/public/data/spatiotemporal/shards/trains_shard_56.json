@@ -1,0 +1,1475 @@
+[
+  {
+    "number": "16430",
+    "name": "GWALIOR - AHMEDABAD MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "ADI",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16431",
+    "name": "GWALIOR - SURAT JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "ST",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ST",
+        "name": "ST",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16432",
+    "name": "GWALIOR - VADODARA GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "BRC",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16433",
+    "name": "GWALIOR - RAJKOT HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "RJT",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "R",
+        "name": "R",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "RJT",
+        "name": "RJT",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16434",
+    "name": "GWALIOR - PUNE INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "PUNE",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16435",
+    "name": "GWALIOR - NAGPUR SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "NGP",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "RJT",
+        "name": "RJT",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16436",
+    "name": "GWALIOR - MADGAON EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "MAO",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16437",
+    "name": "GWALIOR - MYSURU MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "MYS",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BSP",
+        "name": "BSP",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16438",
+    "name": "GWALIOR - HUBBALLI JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "UBL",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "UBL",
+        "name": "UBL",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16439",
+    "name": "GWALIOR - TRIVANDRUM GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "TVC",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16440",
+    "name": "GWALIOR - ERNAKULAM HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "ERS",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SC",
+        "name": "SC",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "LKO",
+        "name": "LKO",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16441",
+    "name": "GWALIOR - CLT INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "CLT",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "RNC",
+        "name": "RNC",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CLT",
+        "name": "CLT",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16442",
+    "name": "GWALIOR - COIMBATORE SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "CBE",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "JP",
+        "name": "JP",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CBE",
+        "name": "CBE",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16443",
+    "name": "GWALIOR - MADURAI EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "MDU",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16444",
+    "name": "GWALIOR - BHUBANESWAR MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "BBS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16445",
+    "name": "GWALIOR - PURI JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "PURI",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "R",
+        "name": "R",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16446",
+    "name": "GWALIOR - RAIPUR GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "R",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "DLI",
+        "name": "DLI",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "R",
+        "name": "R",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16447",
+    "name": "GWALIOR - BILASPUR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "BSP",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BSP",
+        "name": "BSP",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16448",
+    "name": "GWALIOR - VISAKHAPATNAM INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "VSKP",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SC",
+        "name": "SC",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "VSKP",
+        "name": "VSKP",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16449",
+    "name": "GWALIOR - VIJAYAWADA SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "BZA",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16450",
+    "name": "GWALIOR - GUWAHATI EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "GHY",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16451",
+    "name": "GWALIOR - AGARTALA MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GWL",
+    "destination": "AGTL",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ST",
+        "name": "ST",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16452",
+    "name": "AHMEDABAD - SURAT JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ADI",
+    "destination": "ST",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "R",
+        "name": "R",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "UBL",
+        "name": "UBL",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ST",
+        "name": "ST",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16453",
+    "name": "AHMEDABAD - VADODARA GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ADI",
+    "destination": "BRC",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16454",
+    "name": "AHMEDABAD - RAJKOT HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ADI",
+    "destination": "RJT",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "RJT",
+        "name": "RJT",
+        "arr": "22:30",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "16455",
+    "name": "AHMEDABAD - PUNE INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ADI",
+    "destination": "PUNE",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  }
+]

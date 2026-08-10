@@ -1,0 +1,12 @@
+{
+  "name": "ticketforge-root",
+  "version": "1.0.0",
+  "description": "TicketForge Root Convenience Scripts",
+  "scripts": {
+    "start": "npm run start:frontend",
+    "start:backend": "cd platform/backend && npm start",
+    "start:frontend": "cd platform/frontend && npm start",
+    "docker:up": "docker compose up -d",
+    "docker:down": "docker compose down"
+  }
+}

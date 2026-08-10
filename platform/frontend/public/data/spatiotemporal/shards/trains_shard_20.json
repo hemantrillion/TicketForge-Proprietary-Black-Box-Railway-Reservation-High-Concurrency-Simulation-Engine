@@ -1,0 +1,1475 @@
+[
+  {
+    "number": "15494",
+    "name": "LOKMANYA TILAK - TRIVANDRUM GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "TVC",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15495",
+    "name": "LOKMANYA TILAK - ERNAKULAM HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "ERS",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MS",
+        "name": "MS",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15496",
+    "name": "LOKMANYA TILAK - CLT INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "CLT",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GKP",
+        "name": "GKP",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CLT",
+        "name": "CLT",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15497",
+    "name": "LOKMANYA TILAK - COIMBATORE SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "CBE",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CBE",
+        "name": "CBE",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15498",
+    "name": "LOKMANYA TILAK - MADURAI EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "MDU",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15499",
+    "name": "LOKMANYA TILAK - BHUBANESWAR MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "BBS",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15500",
+    "name": "LOKMANYA TILAK - PURI JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "PURI",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15501",
+    "name": "LOKMANYA TILAK - RAIPUR GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "R",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "R",
+        "name": "R",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15502",
+    "name": "LOKMANYA TILAK - BILASPUR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "BSP",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "R",
+        "name": "R",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CSMT",
+        "name": "CSMT",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BSP",
+        "name": "BSP",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15503",
+    "name": "LOKMANYA TILAK - VISAKHAPATNAM INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "VSKP",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "VSKP",
+        "name": "VSKP",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15504",
+    "name": "LOKMANYA TILAK - VIJAYAWADA SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "BZA",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "AY",
+        "name": "AY",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15505",
+    "name": "LOKMANYA TILAK - GUWAHATI EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "GHY",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ASR",
+        "name": "ASR",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15506",
+    "name": "LOKMANYA TILAK - AGARTALA MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "LTT",
+    "destination": "AGTL",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15507",
+    "name": "HOWRAH - SEALDAH JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "SDAH",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "13:45",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15508",
+    "name": "HOWRAH - BENGALURU GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "SBC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CBE",
+        "name": "CBE",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15509",
+    "name": "HOWRAH - YESVANTPUR HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "YPR",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SC",
+        "name": "SC",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "YPR",
+        "name": "YPR",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15510",
+    "name": "HOWRAH - CHENNAI CENTRAL INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "MAS",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15511",
+    "name": "HOWRAH - CHENNAI EGMORE SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "MS",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "YPR",
+        "name": "YPR",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MS",
+        "name": "MS",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15512",
+    "name": "HOWRAH - HYDERABAD EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "HYB",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "HYB",
+        "name": "HYB",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15513",
+    "name": "HOWRAH - SECUNDERABAD MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "SC",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "SC",
+        "name": "SC",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15514",
+    "name": "HOWRAH - LUCKNOW JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "LKO",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "LKO",
+        "name": "LKO",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15515",
+    "name": "HOWRAH - KANPUR GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "CNB",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15516",
+    "name": "HOWRAH - VARANASI HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "BSB",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "CLT",
+        "name": "CLT",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15517",
+    "name": "HOWRAH - AYODHYA INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "AY",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "VSKP",
+        "name": "VSKP",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "AY",
+        "name": "AY",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15518",
+    "name": "HOWRAH - GORAKHPUR SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "GKP",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GKP",
+        "name": "GKP",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15519",
+    "name": "HOWRAH - VGL JHANSI EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "VGLJ",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  }
+]

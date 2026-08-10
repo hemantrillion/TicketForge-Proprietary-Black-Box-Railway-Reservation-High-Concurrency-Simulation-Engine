@@ -1,0 +1,1538 @@
+[
+  {
+    "number": "12273",
+    "name": "HOWRAH - NEW DELHI DURONTO EXPRESS",
+    "category": "DURONTO",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12274",
+    "name": "NEW DELHI - HOWRAH DURONTO EXPRESS",
+    "category": "DURONTO",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "22209",
+    "name": "MUMBAI DURONTO EXPRESS",
+    "category": "DURONTO",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "22210",
+    "name": "MUMBAI DURONTO EXPRESS",
+    "category": "DURONTO",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "MMCT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12393",
+    "name": "SAMPOORNA KRANTI EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12394",
+    "name": "SAMPOORNA KRANTI EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12303",
+    "name": "POORVA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12304",
+    "name": "POORVA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12801",
+    "name": "PURUSHOTTAM EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PURI",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12802",
+    "name": "PURUSHOTTAM EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "PURI",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12391",
+    "name": "SHRAMJEEVI EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "LKO",
+        "name": "LKO",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12392",
+    "name": "SHRAMJEEVI EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "LKO",
+        "name": "LKO",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12367",
+    "name": "VIKRAMSHILA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "ANVT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12368",
+    "name": "VIKRAMSHILA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ANVT",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12625",
+    "name": "KERALA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "TVC",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "CBE",
+        "name": "CBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1000
+      },
+      {
+        "seq": 6,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1250
+      },
+      {
+        "seq": 7,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1500
+      },
+      {
+        "seq": 8,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1750
+      }
+    ]
+  },
+  {
+    "number": "12626",
+    "name": "KERALA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "TVC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1000
+      },
+      {
+        "seq": 6,
+        "code": "CBE",
+        "name": "CBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1250
+      },
+      {
+        "seq": 7,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1500
+      },
+      {
+        "seq": 8,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1750
+      }
+    ]
+  },
+  {
+    "number": "12621",
+    "name": "TAMIL NADU EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MAS",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12622",
+    "name": "TAMIL NADU EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "MAS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12639",
+    "name": "BRINDAVAN EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MAS",
+    "destination": "SBC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12640",
+    "name": "BRINDAVAN EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "SBC",
+    "destination": "MAS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12123",
+    "name": "DECCAN QUEEN",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CSMT",
+    "destination": "PUNE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CSMT",
+        "name": "CSMT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12124",
+    "name": "DECCAN QUEEN",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PUNE",
+    "destination": "CSMT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CSMT",
+        "name": "CSMT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12723",
+    "name": "TELANGANA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HYB",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HYB",
+        "name": "HYB",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SC",
+        "name": "SC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1000
+      },
+      {
+        "seq": 6,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1250
+      }
+    ]
+  },
+  {
+    "number": "12724",
+    "name": "TELANGANA EXPRESS",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "HYB",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "SC",
+        "name": "SC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 1000
+      },
+      {
+        "seq": 6,
+        "code": "HYB",
+        "name": "HYB",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1250
+      }
+    ]
+  },
+  {
+    "number": "12137",
+    "name": "PUNJAB MAIL",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CSMT",
+    "destination": "FZR",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CSMT",
+        "name": "CSMT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12138",
+    "name": "PUNJAB MAIL",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "FZR",
+    "destination": "CSMT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "CSMT",
+        "name": "CSMT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  }
+]

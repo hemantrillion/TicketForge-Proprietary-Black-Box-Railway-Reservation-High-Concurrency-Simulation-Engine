@@ -1,0 +1,1475 @@
+[
+  {
+    "number": "15988",
+    "name": "AYODHYA - JAMMU TAWI EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "JAT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15989",
+    "name": "AYODHYA - KATRA MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "SVDK",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "R",
+        "name": "R",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15990",
+    "name": "AYODHYA - JAIPUR JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "JP",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "DLI",
+        "name": "DLI",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "JP",
+        "name": "JP",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15991",
+    "name": "AYODHYA - KOTA GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "KOTA",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15992",
+    "name": "AYODHYA - BHOPAL HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "BPL",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SC",
+        "name": "SC",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15993",
+    "name": "AYODHYA - INDORE INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "INDB",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15994",
+    "name": "AYODHYA - GWALIOR SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "GWL",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15995",
+    "name": "AYODHYA - AHMEDABAD EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "ADI",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ST",
+        "name": "ST",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15996",
+    "name": "AYODHYA - SURAT MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "ST",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "R",
+        "name": "R",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "UBL",
+        "name": "UBL",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ST",
+        "name": "ST",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15997",
+    "name": "AYODHYA - VADODARA JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "BRC",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "15998",
+    "name": "AYODHYA - RAJKOT GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "RJT",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "RJT",
+        "name": "RJT",
+        "arr": "22:30",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 480
+      }
+    ]
+  },
+  {
+    "number": "15999",
+    "name": "AYODHYA - PUNE HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "PUNE",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ANVT",
+        "name": "ANVT",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "LTT",
+        "name": "LTT",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16000",
+    "name": "AYODHYA - NAGPUR INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "NGP",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "HYB",
+        "name": "HYB",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16001",
+    "name": "AYODHYA - MADGAON SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "MAO",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16002",
+    "name": "AYODHYA - MYSURU EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "MYS",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16003",
+    "name": "AYODHYA - HUBBALLI MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "UBL",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SC",
+        "name": "SC",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "UBL",
+        "name": "UBL",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16004",
+    "name": "AYODHYA - TRIVANDRUM JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "TVC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16005",
+    "name": "AYODHYA - ERNAKULAM GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "ERS",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16006",
+    "name": "AYODHYA - CLT HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "CLT",
+    "deptTime": "18:30",
+    "arrTime": "02:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "18:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "TATA",
+        "name": "TATA",
+        "arr": "20:30",
+        "dept": "20:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "22:30",
+        "dept": "22:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CLT",
+        "name": "CLT",
+        "arr": "00:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16007",
+    "name": "AYODHYA - COIMBATORE INTERCITY",
+    "category": "INTERCITY",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "CBE",
+    "deptTime": "21:45",
+    "arrTime": "05:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "21:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "23:45",
+        "dept": "23:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "BDTS",
+        "name": "BDTS",
+        "arr": "01:45",
+        "dept": "01:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "CBE",
+        "name": "CBE",
+        "arr": "03:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16008",
+    "name": "AYODHYA - MADURAI SUPERFAST",
+    "category": "SUPERFAST",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "MDU",
+    "deptTime": "00:00",
+    "arrTime": "08:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "00:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JP",
+        "name": "JP",
+        "arr": "02:00",
+        "dept": "02:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MS",
+        "name": "MS",
+        "arr": "04:00",
+        "dept": "04:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "06:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16009",
+    "name": "AYODHYA - BHUBANESWAR EXPRESS",
+    "category": "EXPRESS",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "BBS",
+    "deptTime": "03:15",
+    "arrTime": "11:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "03:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "INDB",
+        "name": "INDB",
+        "arr": "05:15",
+        "dept": "05:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GKP",
+        "name": "GKP",
+        "arr": "07:15",
+        "dept": "07:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "09:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16010",
+    "name": "AYODHYA - PURI MAIL",
+    "category": "MAIL",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "PURI",
+    "deptTime": "06:30",
+    "arrTime": "14:30",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "06:35",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "08:30",
+        "dept": "08:35",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "FZR",
+        "name": "FZR",
+        "arr": "10:30",
+        "dept": "10:35",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "12:30",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16011",
+    "name": "AYODHYA - RAIPUR JAN SHATABDI",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "R",
+    "deptTime": "09:45",
+    "arrTime": "17:45",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "09:50",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PUNE",
+        "name": "PUNE",
+        "arr": "11:45",
+        "dept": "11:50",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "13:45",
+        "dept": "13:50",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "R",
+        "name": "R",
+        "arr": "15:45",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16012",
+    "name": "AYODHYA - BILASPUR GARIB RATH",
+    "category": "GARIB RATH",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "BSP",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "14:00",
+        "dept": "14:05",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "16:00",
+        "dept": "16:05",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "BSP",
+        "name": "BSP",
+        "arr": "18:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  },
+  {
+    "number": "16013",
+    "name": "AYODHYA - VISAKHAPATNAM HUMSAFAR",
+    "category": "HUMSAFAR",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AY",
+    "destination": "VSKP",
+    "deptTime": "15:15",
+    "arrTime": "23:15",
+    "isGenerated": true,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AY",
+        "name": "AY",
+        "arr": "Source",
+        "dept": "15:20",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "17:15",
+        "dept": "17:20",
+        "day": 1,
+        "distKm": 240
+      },
+      {
+        "seq": 3,
+        "code": "MDU",
+        "name": "MDU",
+        "arr": "19:15",
+        "dept": "19:20",
+        "day": 1,
+        "distKm": 480
+      },
+      {
+        "seq": 4,
+        "code": "VSKP",
+        "name": "VSKP",
+        "arr": "21:15",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 720
+      }
+    ]
+  }
+]

@@ -1,0 +1,1214 @@
+[
+  {
+    "number": "20817",
+    "name": "BHUBANESWAR RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BBS",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "20818",
+    "name": "BHUBANESWAR RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "BBS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "22435",
+    "name": "VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BSB",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "22436",
+    "name": "VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "BSB",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BSB",
+        "name": "BSB",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "22439",
+    "name": "KATRA VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "SVDK",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "22440",
+    "name": "KATRA VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "SVDK",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "SVDK",
+        "name": "SVDK",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "22895",
+    "name": "HOWRAH - PURI VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "PURI",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "22896",
+    "name": "PURI - HOWRAH VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PURI",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "20835",
+    "name": "PURI - ROURKELA VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PURI",
+    "destination": "BBS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "20836",
+    "name": "ROURKELA - PURI VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BBS",
+    "destination": "PURI",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BBS",
+        "name": "BBS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PURI",
+        "name": "PURI",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "22349",
+    "name": "PATNA - RANCHI VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "RNC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "RNC",
+        "name": "RNC",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "22350",
+    "name": "RANCHI - PATNA VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "RNC",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "RNC",
+        "name": "RNC",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "22347",
+    "name": "HOWRAH - PATNA VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "22348",
+    "name": "PATNA - HOWRAH VANDE BHARAT EXPRESS",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "20607",
+    "name": "CHENNAI CENTRAL - MYSORE VANDE BHARAT",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MAS",
+    "destination": "MYS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "20608",
+    "name": "MYSORE - CHENNAI CENTRAL VANDE BHARAT",
+    "category": "VANDE BHARAT",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MYS",
+    "destination": "MAS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MYS",
+        "name": "MYS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12001",
+    "name": "BHOPAL SHATABDI EXPRESS",
+    "category": "SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "BPL",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12002",
+    "name": "BHOPAL SHATABDI EXPRESS",
+    "category": "SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "BPL",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "GWL",
+        "name": "GWL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "VGLJ",
+        "name": "VGLJ",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12009",
+    "name": "MUMBAI CENTRAL - AHMEDABAD SHATABDI EXPRESS",
+    "category": "SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "ADI",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12010",
+    "name": "AHMEDABAD - MUMBAI CENTRAL SHATABDI EXPRESS",
+    "category": "SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "ADI",
+    "destination": "MMCT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "ADI",
+        "name": "ADI",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12011",
+    "name": "KALKA SHATABDI EXPRESS",
+    "category": "SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "CDG",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12012",
+    "name": "KALKA SHATABDI EXPRESS",
+    "category": "SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "CDG",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12023",
+    "name": "HOWRAH - PATNA JAN SHATABDI EXPRESS",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12024",
+    "name": "PATNA - HOWRAH JAN SHATABDI EXPRESS",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12365",
+    "name": "PATNA - RANCHI JAN SHATABDI EXPRESS",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "RNC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "RNC",
+        "name": "RNC",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  },
+  {
+    "number": "12366",
+    "name": "RANCHI - PATNA JAN SHATABDI EXPRESS",
+    "category": "JAN SHATABDI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "RNC",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "RNC",
+        "name": "RNC",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 250
+      }
+    ]
+  }
+]

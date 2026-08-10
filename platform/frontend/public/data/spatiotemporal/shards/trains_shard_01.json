@@ -1,0 +1,1538 @@
+[
+  {
+    "number": "12301",
+    "name": "HOWRAH RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12302",
+    "name": "HOWRAH RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12305",
+    "name": "HOWRAH RAJDHANI EXPRESS (VIA PATNA)",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "HWH",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12306",
+    "name": "HOWRAH RAJDHANI EXPRESS (VIA PATNA)",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "HWH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "HWH",
+        "name": "HWH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12309",
+    "name": "PATNA TEJAS RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "PNBE",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12310",
+    "name": "PATNA TEJAS RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "PNBE",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PNBE",
+        "name": "PNBE",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12313",
+    "name": "SEALDAH RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "SDAH",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12314",
+    "name": "SEALDAH RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "SDAH",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "SDAH",
+        "name": "SDAH",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12423",
+    "name": "DIBRUGARH RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "GHY",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "PPTA",
+        "name": "PPTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12424",
+    "name": "DIBRUGARH RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "GHY",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PPTA",
+        "name": "PPTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "20501",
+    "name": "AGARTALA TEJAS RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "AGTL",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PPTA",
+        "name": "PPTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "20502",
+    "name": "AGARTALA TEJAS RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "AGTL",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CNB",
+        "name": "CNB",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "PPTA",
+        "name": "PPTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "GHY",
+        "name": "GHY",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "AGTL",
+        "name": "AGTL",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12951",
+    "name": "MUMBAI RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "MMCT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12952",
+    "name": "MUMBAI AUGUST KRANTI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12953",
+    "name": "AUGUST KRANTI RAJDHANI",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MMCT",
+    "destination": "NZM",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12954",
+    "name": "AUGUST KRANTI RAJDHANI",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NZM",
+    "destination": "MMCT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "KOTA",
+        "name": "KOTA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BRC",
+        "name": "BRC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "MMCT",
+        "name": "MMCT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12425",
+    "name": "JAMMU RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NDLS",
+    "destination": "JAT",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12426",
+    "name": "JAMMU RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "JAT",
+    "destination": "NDLS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "JAT",
+        "name": "JAT",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "CDG",
+        "name": "CDG",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NDLS",
+        "name": "NDLS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 1,
+        "distKm": 500
+      }
+    ]
+  },
+  {
+    "number": "12431",
+    "name": "TRIVANDRUM RAJDHANI",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "TVC",
+    "destination": "NZM",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12432",
+    "name": "TRIVANDRUM RAJDHANI",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NZM",
+    "destination": "TVC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "ST",
+        "name": "ST",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "MAO",
+        "name": "MAO",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "ERS",
+        "name": "ERS",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "TVC",
+        "name": "TVC",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12433",
+    "name": "CHENNAI RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "MAS",
+    "destination": "NZM",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12434",
+    "name": "CHENNAI RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NZM",
+    "destination": "MAS",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BZA",
+        "name": "BZA",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "MAS",
+        "name": "MAS",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "12437",
+    "name": "SECUNDERABAD RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "SC",
+    "destination": "NZM",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "SC",
+        "name": "SC",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "12438",
+    "name": "SECUNDERABAD RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NZM",
+    "destination": "SC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "SC",
+        "name": "SC",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 750
+      }
+    ]
+  },
+  {
+    "number": "22691",
+    "name": "BENGALURU RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "SBC",
+    "destination": "NZM",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "SC",
+        "name": "SC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  },
+  {
+    "number": "22692",
+    "name": "BENGALURU RAJDHANI EXPRESS",
+    "category": "PREMIUM RAJDHANI",
+    "runsOn": [
+      "MON",
+      "TUE",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "origin": "NZM",
+    "destination": "SBC",
+    "deptTime": "12:00",
+    "arrTime": "20:00",
+    "isGenerated": false,
+    "stoppages": [
+      {
+        "seq": 1,
+        "code": "NZM",
+        "name": "NZM",
+        "arr": "Source",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 0
+      },
+      {
+        "seq": 2,
+        "code": "BPL",
+        "name": "BPL",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 250
+      },
+      {
+        "seq": 3,
+        "code": "NGP",
+        "name": "NGP",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 1,
+        "distKm": 500
+      },
+      {
+        "seq": 4,
+        "code": "SC",
+        "name": "SC",
+        "arr": "12:00",
+        "dept": "12:05",
+        "day": 2,
+        "distKm": 750
+      },
+      {
+        "seq": 5,
+        "code": "SBC",
+        "name": "SBC",
+        "arr": "12:00",
+        "dept": "Destination",
+        "day": 2,
+        "distKm": 1000
+      }
+    ]
+  }
+]
