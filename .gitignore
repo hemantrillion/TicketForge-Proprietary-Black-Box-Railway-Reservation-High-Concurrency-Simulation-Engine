@@ -5,7 +5,9 @@ build/
 *.log
 .DS_Store
 
-# Ignore non-platform lab & experimental folders
+# Ignore non-platform workspace & lab folders
+.agents/
+observability/
 proving-ground/
 resilience/
 load-testing/
