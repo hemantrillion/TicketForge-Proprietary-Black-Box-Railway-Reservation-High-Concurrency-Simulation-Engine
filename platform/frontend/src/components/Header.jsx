@@ -13,7 +13,7 @@ export default function Header({ user, currentPage, setCurrentPage, showProfileM
         {user && user.role === 'admin' && (
           <span
             className={`ct-nav-item ${currentPage === 'ops' ? 'active' : ''}`}
-            onClick={() => window.open('/ops/index.html', '_blank')}
+            onClick={() => window.open('/ops', '_blank')}
           >
             OPS
           </span>
