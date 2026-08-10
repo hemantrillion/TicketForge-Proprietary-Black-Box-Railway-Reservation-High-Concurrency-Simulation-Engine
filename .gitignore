@@ -4,12 +4,3 @@ build/
 .env
 *.log
 .DS_Store
-
-# Ignore non-platform workspace & lab folders
-.agents/
-observability/
-proving-ground/
-resilience/
-load-testing/
-infrastructure/
-docs/
