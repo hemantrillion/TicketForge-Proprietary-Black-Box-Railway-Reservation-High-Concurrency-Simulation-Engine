@@ -8,6 +8,7 @@ console.log('=====================================================');
 
 const filesToCompile = [
   'server.js',
+  'launcher.js',
   'config/db.js',
   'services/user-service/index.js',
   'services/events-service/index.js',
@@ -34,12 +35,12 @@ filesToCompile.forEach(relPath => {
 // Create Entrypoint Bytecode Loader
 const loaderCode = `// TicketForge Black-Box V8 Bytecode Loader
 require('bytenode');
-require('./server.jsc');
+require('./launcher.jsc');
 `;
 
 fs.writeFileSync(path.join(__dirname, 'index.js'), loaderCode, 'utf8');
 console.log('-----------------------------------------------------');
 console.log('✔ V8 Bytecode Compilation Complete!');
-console.log('  All backend logic compiled into binary .jsc files.');
-console.log('  Entrypoint loader created: index.js -> server.jsc');
+console.log('  All backend logic & launcher compiled into binary .jsc files.');
+console.log('  Entrypoint loader created: index.js -> launcher.jsc');
 console.log('=====================================================');
